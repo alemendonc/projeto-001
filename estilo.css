@@ -1,14 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap')
+
+
 :root{
     --cor-de-fundo:linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(39,255,0,1) 77%, rgba(255,255,255,1) 100%);
 
-
-
 }
-
-
-
-
-
 
 body{
     background: rgb(0,0,0);
