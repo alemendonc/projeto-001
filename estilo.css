@@ -20,3 +20,9 @@ body{
     color:white;
 
 }
+.conteudo-principal{
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
