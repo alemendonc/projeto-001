@@ -36,6 +36,14 @@ color: rgb(170, 170, 170);
 }
 .botao{
 font-size: 18px;
-background-color: rgb(179, 179, 179);
+background-color: var(--botao-inativo);
+color: aliceblue;
+display: flex;
+justify-content: center;
+padding: 1em;
+
+
+
+
 
 }
