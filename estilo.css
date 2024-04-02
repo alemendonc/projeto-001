@@ -49,7 +49,7 @@ border-right: 2px solid  rgba(0, 0, 0, 0.425);
 border-top: 4px solid  rgba(0, 0, 0, 0.425);
 
 }
-.principal-botoes:first-child{
+.botao:first-child{
     border-radius: 40 px 40px 0 0 ;
 }
 
