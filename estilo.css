@@ -43,10 +43,10 @@ display: flex;
 justify-content: center;
 align-items: center;
 width: 100%;
-border-bottom: 4px solid white;
-border-left: 2px solid white;
-border-right: 2px solid white;
-border-top: 4px solid white;
+border-bottom: 4px solid rgba(0, 0, 0, 0.425);
+border-left: 2px solid  rgba(0, 0, 0, 0.425);
+border-right: 2px solid  rgba(0, 0, 0, 0.425);
+border-top: 4px solid  rgba(0, 0, 0, 0.425);
 
 }
 .principal-botoes{
