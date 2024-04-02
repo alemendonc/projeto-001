@@ -49,6 +49,11 @@ border-right: 2px solid  rgba(0, 0, 0, 0.425);
 border-top: 4px solid  rgba(0, 0, 0, 0.425);
 
 }
+.principal-botoes:first-child{
+    border-radius: 40 px 40px 0 0;
+}
+
+
 .principal-botoes{
 display: block;
 
@@ -56,5 +61,6 @@ display: block;
 @media screen and (min-width:768px) {
     .principal-botoes{
         display: flex;
+
     }
 }
