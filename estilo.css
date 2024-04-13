@@ -2,7 +2,7 @@
 :root{
     --cor-de-fundo:linear-gradient(90deg, rgba(2,59,10,1) 1%, rgba(0,69,9,1) 9%, rgba(3,208,16,1) 33%, rgba(3,213,16,1) 72%, rgba(0,69,9,1) 88%, rgba(1,51,8,1) 98%);
     --botao-inativo: rgba(0, 0, 0, 0.425);
-    --botao-ativo:rgba(214, 208, 208, 0.945);
+    --botao-ativo:rgba(154, 255, 134, 0.945);
 
 }
 
