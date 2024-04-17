@@ -58,6 +58,11 @@ border-top: 4px solid  rgba(0, 0, 0, 0.425);
 display: block;
 
 }
+.abas-textos{
+    background: var(--botao-ativo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
 
 @media screen and (min-width:768px) {
     .principal-botoes{
@@ -75,9 +80,4 @@ display: block;
 .ativo{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid white;
-}
-.abas-textos{
-    background: var(--botao-ativo);
-    padding: 40px;
-    border-radius: 0 0 40px 40px;
 }
