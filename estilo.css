@@ -79,5 +79,5 @@ display: block;
 .abas-textos{
     background: var(--botao-ativo);
     padding: 40px;
-
+    border-radius: 0 0 40px 40px;
 }
